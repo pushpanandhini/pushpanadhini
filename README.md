@@ -44,3 +44,33 @@ Git and GitHub basics
 💬 Thank You!
 
 Thank you for visiting my GitHub profile! 😊
+## 🛠️ Tech Stack & Tools
+
+| Category    | Technologies                              |
+| ----------- | ----------------------------------------- |
+| Programming | C (Learning)                              |
+| Tools       | GitHub, VS Code (Learning)                |
+| Domain      | Electronics and Communication Engineering |
+
+## 📌 Featured Repository
+
+**English Practical Profile**
+
+My GitHub profile showcases my academic interests, skills, learning journey, and career goals.
+
+## 🗺️ Career Roadmap
+
+- 🟢 **Current:** Learning C programming and engineering fundamentals.
+-
+- 🔵 **In Progress:** Improving problem-solving and communication skills.
+- 🎯 **Future Goal:** Build projects related to Electronics and Communication Engineering.
+
+## 🏆 Certifications & Achievements
+
+- 🎓 First-Year ECE Student
+- 💻 Learning programming and GitHub.
+- 📚 Working to improve my technical knowledge.
+
+## 💬 Connect With Me
+
+Thank you for visiting my GitHub profile! 😊
